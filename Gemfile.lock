@@ -15,14 +15,12 @@ GEM
       diff-lcs (>= 1.2.0, < 2.0)
       rspec-support (~> 3.12.0)
     rspec-support (3.12.0)
-    syntax_suggest (1.0.2)
 
 PLATFORMS
   arm64-darwin-21
 
 DEPENDENCIES
   rspec
-  syntax_suggest
 
 BUNDLED WITH
-   2.4.0.dev
+   2.4.1
